@@ -1,0 +1,33 @@
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\bin\Release\PokerGameV2.exe.config
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\bin\Release\PokerGameV2.exe
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\bin\Release\PokerGameV2.pdb
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\bin\Release\MySql.Data.dll
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\bin\Release\MySql.Data.xml
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.csprojResolveAssemblyReference.cache
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.frmMain.resources
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.Properties.Resources.resources
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.csproj.GenerateResource.Cache
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.exe
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.pdb
+E:\PokerGameV2\PokerGameV2\bin\Release\PokerGameV2.exe.config
+E:\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.exe
+E:\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.pdb
+E:\PokerGameV2\PokerGameV2\bin\Release\PokerGameV2.exe
+E:\PokerGameV2\PokerGameV2\bin\Release\PokerGameV2.pdb
+E:\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.frmMain.resources
+E:\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.Properties.Resources.resources
+E:\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.csproj.GenerateResource.Cache
+C:\Users\gills\Documents\PokerGameV2\PokerGameV2\bin\Release\PokerGameV2.exe.config
+C:\Users\gills\Documents\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.exe
+C:\Users\gills\Documents\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.pdb
+H:\Own\PokerGameV2\PokerGameV2\bin\Release\PokerGameV2.exe.config
+H:\Own\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.exe
+H:\Own\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.pdb
+H:\Own\PokerGameV2\PokerGameV2\bin\Release\PokerGameV2.exe
+H:\Own\PokerGameV2\PokerGameV2\bin\Release\PokerGameV2.pdb
+H:\Own\PokerGameV2\PokerGameV2\bin\Release\MySql.Data.xml
+H:\Own\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.csprojResolveAssemblyReference.cache
+H:\Own\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.frmMain.resources
+H:\Own\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.Properties.Resources.resources
+H:\Own\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.csproj.GenerateResource.Cache
+E:\PokerGameV2\PokerGameV2\obj\Release\PokerGameV2.csprojResolveAssemblyReference.cache

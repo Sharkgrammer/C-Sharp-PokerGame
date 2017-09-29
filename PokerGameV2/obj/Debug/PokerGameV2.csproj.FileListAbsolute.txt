@@ -1,0 +1,21 @@
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\bin\Debug\PokerGameV2.exe.config
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\bin\Debug\PokerGameV2.exe
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\bin\Debug\PokerGameV2.pdb
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\obj\Debug\PokerGameV2.csprojResolveAssemblyReference.cache
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\obj\Debug\PokerGameV2.frmMain.resources
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\obj\Debug\PokerGameV2.Properties.Resources.resources
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\obj\Debug\PokerGameV2.csproj.GenerateResource.Cache
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\obj\Debug\PokerGameV2.exe
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\obj\Debug\PokerGameV2.pdb
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\bin\Debug\MySql.Data.dll
+C:\Users\gills\Documents\Visual Studio 2015\Projects\PokerGameV2\PokerGameV2\bin\Debug\MySql.Data.xml
+E:\PokerGameV2\PokerGameV2\bin\Debug\PokerGameV2.exe.config
+E:\PokerGameV2\PokerGameV2\obj\Debug\PokerGameV2.exe
+E:\PokerGameV2\PokerGameV2\obj\Debug\PokerGameV2.pdb
+E:\PokerGameV2\PokerGameV2\bin\Debug\PokerGameV2.exe
+E:\PokerGameV2\PokerGameV2\bin\Debug\PokerGameV2.pdb
+E:\PokerGameV2\PokerGameV2\bin\Debug\MySql.Data.xml
+E:\PokerGameV2\PokerGameV2\obj\Debug\PokerGameV2.csprojResolveAssemblyReference.cache
+E:\PokerGameV2\PokerGameV2\obj\Debug\PokerGameV2.frmMain.resources
+E:\PokerGameV2\PokerGameV2\obj\Debug\PokerGameV2.Properties.Resources.resources
+E:\PokerGameV2\PokerGameV2\obj\Debug\PokerGameV2.csproj.GenerateResource.Cache
